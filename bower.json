@@ -1,0 +1,7 @@
+{
+"name" : "nacre",
+"dependencies" : {
+     "angular" : "latest",
+     "bootstrap" : "v3.3.6"
+     }
+     }
